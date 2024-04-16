@@ -478,18 +478,18 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@measured/auto-frame-component@0.1.3":
-  version "0.1.3"
-  resolved "https://registry.npmjs.org/@measured/auto-frame-component/-/auto-frame-component-0.1.3.tgz"
-  integrity sha512-oDGftzZ/VsMfgwDZvOcYNPCFgz6Lj2Uy2llfejt3HoZMJ9Nro7dzCcxc+EYMoIVzZGAGXA2gpfMLTCJFcLfa6g==
+"@measured/auto-frame-component@0.1.5":
+  version "0.1.5"
+  resolved "https://registry.npmjs.org/@measured/auto-frame-component/-/auto-frame-component-0.1.5.tgz"
+  integrity sha512-Et7UhfUm8XPI1zSvcHr8OvtRptVwiDJocUWHmpSIzGZbCJwm2qarNPUCV0HuL0XrT1FCOV6KHbfTP8On7nu7CQ==
   dependencies:
     object-hash "^3.0.0"
     react-frame-component "5.2.6"
 
-"@measured/dnd@16.6.0-canary.eda7e8b":
-  version "16.6.0-canary.eda7e8b"
-  resolved "https://registry.npmjs.org/@measured/dnd/-/dnd-16.6.0-canary.eda7e8b.tgz"
-  integrity sha512-AXB10+927fl/R01gzae2+u9ZpL+3ES+YxpwZS+qkXyUJPSsU1fa3l1hrP9Lh+2JxXdRfsPwMt07Rpeco8j7GWA==
+"@measured/dnd@16.6.0-canary.4cba1d1":
+  version "16.6.0-canary.4cba1d1"
+  resolved "https://registry.npmjs.org/@measured/dnd/-/dnd-16.6.0-canary.4cba1d1.tgz"
+  integrity sha512-mMPQ5jElzQRZFR2HNyBn5WnPWpf+E464q1oT0qaI0dJtPqm7R/ssm5lcFDYaXApGvhZnrCRQWWT1ggoW80j0JA==
   dependencies:
     "@babel/runtime" "^7.23.2"
     css-box-model "^1.2.1"
@@ -500,13 +500,13 @@
     redux "^4.2.1"
     use-memo-one "^1.1.3"
 
-"@measured/puck@0.14.2-canary.e529e85":
-  version "0.14.2-canary.e529e85"
-  resolved "https://registry.npmjs.org/@measured/puck/-/puck-0.14.2-canary.e529e85.tgz"
-  integrity sha512-wGo7JJffbQ8CbK1PvSpTzJN/CkF8wrArQZozApxKgEnPi9SZGGmMC2ASK8nOmN41BaMwQWAsC3bYVlLIxhFQ9Q==
+"@measured/puck@0.14.2-canary.e585f20":
+  version "0.14.2-canary.e585f20"
+  resolved "https://registry.npmjs.org/@measured/puck/-/puck-0.14.2-canary.e585f20.tgz"
+  integrity sha512-3OhNZdqJuDZfqFIvCrw8sgHeh/YcQjZNDuiV4PR/Xpng2V8fGrh89LOd5S/OrXg+FeIWZnBmbqfikrM7jJiQQg==
   dependencies:
-    "@measured/auto-frame-component" "0.1.3"
-    "@measured/dnd" "16.6.0-canary.eda7e8b"
+    "@measured/auto-frame-component" "0.1.5"
+    "@measured/dnd" "16.6.0-canary.4cba1d1"
     deep-diff "^1.0.2"
     react-hotkeys-hook "^4.4.1"
     react-spinners "^0.13.8"
